@@ -1,5 +1,5 @@
-Problem Code:
-SCOR_PY
+#Problem Code:
+#SCOR_PY
 
 
 from collections import OrderedDict

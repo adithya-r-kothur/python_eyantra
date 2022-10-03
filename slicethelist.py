@@ -1,5 +1,5 @@
-Problem Code:
-SLICE1_PY
+#Problem Code:
+#SLICE1_PY
 
 t=int(input())
 while(t):

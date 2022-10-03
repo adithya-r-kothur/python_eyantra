@@ -1,5 +1,5 @@
-Problem Code:
-STAR_PY
+#Problem Code:
+#STAR_PY
 
 
 t=int(input())

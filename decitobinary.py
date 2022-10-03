@@ -1,5 +1,5 @@
-Problem Code:
-D2BIN1_PY
+#Problem Code:
+#D2BIN1_PY
 
 def decimalToBinary(n):
     bin = 0

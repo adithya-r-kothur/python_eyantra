@@ -1,5 +1,5 @@
-Problem Code:
-IFFOR1_PY
+#Problem Code:
+#IFFOR1_PY
 
 t=int(input())
 while(t):

@@ -1,5 +1,5 @@
-Problem Code:
-PAL_PY
+#Problem Code:
+#PAL_PY
 
 t=int(input())
 while(t):

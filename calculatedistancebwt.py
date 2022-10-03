@@ -1,5 +1,5 @@
-Problem Code:
-DIST1_PY
+#Problem Code:
+#DIST1_PY
 
 t=int(input())
 while(t):
