@@ -11,7 +11,7 @@ def get_ints(): return map(int, sys.stdin.readline().strip().split())
 
 def generate_AP(a1, d, n):
 
-    AP_series = [0]*(n)
+    AP_series = [0] * (n)
 
     
     AP_series[0]=a1
